@@ -1,0 +1,11 @@
+.nav-container {
+    background: #1890FF;
+    padding: 10px 0px 10px 0px;
+}
+
+.nav-logo-text a{
+    color: #FFF;
+    display: inline;
+    margin-left: 40px;
+    text-decoration: none;
+}

@@ -1,0 +1,34 @@
+.home-container {
+    margin-left: 120px;
+    margin-top: 80px;
+}
+
+.home-title {
+    font-weight: bold;
+    font-size: 38px;
+    color: #062847;
+    margin-bottom: 15px;
+}
+
+.home-text {
+    font-weight: normal;
+    font-size: 15px;
+    color: #5A6774;
+    margin-bottom: 30px;
+}
+
+.home-span {
+    color: #1890FF;
+}
+
+.home-button {
+    background: #1890FF;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+}
+
+.home-button-text {
+    text-decoration: none;
+    color: #FFF;
+}
